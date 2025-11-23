@@ -30,13 +30,13 @@ const Index = () => {
             </div>
 
             <div className="flex items-center gap-4">
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors">
+              <a href="https://www.linkedin.com/in/naveen-kumar-s-909b3a364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors">
+              <a href="https://github.com/naveenhp33" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors">
                 <Github className="w-5 h-5" />
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors">
+              <a href="https://www.instagram.com/nickyk_33?igsh=NTVyMHU2ZGQwY2My" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors">
                 <Instagram className="w-5 h-5" />
               </a>
             </div>
